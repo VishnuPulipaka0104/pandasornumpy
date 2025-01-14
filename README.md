@@ -1,8 +1,11 @@
 # pandasornumpy
 In this module we would be analysing and drawing some conclusions from the Bands, Albums and Songs Data that we have. 
 Bands: 
+
  "id":[1,2,3,4,5,6,7],
     "name":["Seventh Wonder","Metallica","The Ocean","Within Temptation","Death","Van Canto","Dream Theater"]
+
+    
   Albums:
   [
   {"id": 1, "name": "Tiara", "release_year": 2018, "band_id": 1},
@@ -24,6 +27,8 @@ Bands:
   {"id": 17, "name": "Break the Silence", "release_year": 2011, "band_id": 6},
   {"id": 18, "name": "Tribe of Force", "release_year": 2010, "band_id": 6}
 ]
+
+
 
 Songs:
 [
@@ -67,6 +72,8 @@ Songs:
   {"id": 38, "name": "The Thing That Should Not Be", "length": 6.6, "album_id": 4},
   {"id": 39, "name": "Welcome Home (Sanitarium)", "length": 6.45, "album_id": 4}
 ]
+
+
 
 Exercises to do:
 1. Change the name of the column the data returns to Band Name
